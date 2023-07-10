@@ -1,0 +1,35 @@
+{
+  "name": "Nirmalya Nayak",
+  "avatar": "image",
+  "links": [
+    {
+      "title": "Portfolio",
+      "url": "link",
+      "image": "placeholder"
+    },
+    {
+      "title": "GitHub",
+      "url": "link",
+      "image": "placeholder"
+    },
+    {
+      "title": "Instagram",
+      "url": "link",
+      "image": "placeholder"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "url": "link"
+    },
+    {
+      "title": "GitHub",
+      "url": "link"
+    },
+    {
+      "title": "Instagram",
+      "url": "link"
+    }
+  ]
+}
