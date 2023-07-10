@@ -3,6 +3,7 @@ import Image from "next/image";
 
 import data from "../data.json";
 import Avatar from "/public/assets/images/Avatar.jpg";
+import LinkCards from "@/components/LinkCards";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         height={96}
       />
       <h1 className="font-semibold mt-4 text-xl">{data.name}</h1>
+      <LinkCards links={data.links} />
     </div>
   );
 }
