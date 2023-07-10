@@ -6,6 +6,6 @@ interface LinkCardsProps {
   image?: string;
 }
 
-export default function LinkCards({ href, image, title }: LinkCardsProps) {
-  return <div>LinkCards</div>;
+export default function LinkCard({ href, title, image }: LinkCardsProps) {
+  return <div>LinkCard</div>;
 }

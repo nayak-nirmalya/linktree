@@ -4,32 +4,32 @@
   "links": [
     {
       "title": "Portfolio",
-      "url": "link",
+      "href": "link",
       "image": "placeholder"
     },
     {
       "title": "GitHub",
-      "url": "link",
+      "href": "link",
       "image": "placeholder"
     },
     {
       "title": "Instagram",
-      "url": "link",
+      "href": "link",
       "image": "placeholder"
     }
   ],
   "socials": [
     {
       "title": "Twitter",
-      "url": "link"
+      "href": "link"
     },
     {
       "title": "GitHub",
-      "url": "link"
+      "href": "link"
     },
     {
       "title": "Instagram",
-      "url": "link"
+      "href": "link"
     }
   ]
 }
