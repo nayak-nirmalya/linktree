@@ -4,17 +4,17 @@
   "links": [
     {
       "title": "Portfolio",
-      "href": "link",
+      "href": "https://portfolio-nayak-nirmalya.vercel.app/",
       "image": "placeholder"
     },
     {
       "title": "GitHub",
-      "href": "link",
+      "href": "https://github.com/nayak-nirmalya",
       "image": "placeholder"
     },
     {
-      "title": "Instagram",
-      "href": "link",
+      "title": "HackerRank",
+      "href": "https://www.hackerrank.com/n_nayak",
       "image": "placeholder"
     }
   ],
