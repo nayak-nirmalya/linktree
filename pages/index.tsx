@@ -7,7 +7,7 @@ import LinkCards from "@/components/LinkCards";
 
 export default function Home() {
   return (
-    <div className="flex mx-auto w-full justify-center mt-16 items-center flex-col">
+    <div className="flex items-center flex-col mx-auto w-full justify-center mt-16 px-8">
       <Image
         className="rounded-full"
         alt={data.name}
@@ -15,7 +15,7 @@ export default function Home() {
         width={96}
         height={96}
       />
-      <h1 className="font-semibold mt-4 text-xl">{data.name}</h1>
+      <h1 className="font-bold mt-4 mb-8 text-xl text-white">{data.name}</h1>
       <LinkCards links={data.links} />
     </div>
   );
