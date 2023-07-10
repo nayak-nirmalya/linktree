@@ -12,6 +12,12 @@ export default function Home() {
     <div className="flex items-center flex-col mx-auto w-full justify-center mt-16 px-8">
       <Head>
         <title>LinkTree Clone: Nirmalya Nayak</title>
+        <meta
+          name="description"
+          content="LinkTree with Next.js + TypeScript + Tailwind CSS"
+        />
+        <link rel="icon" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <Header data={data} />
       <LinkCards links={data.links} />
