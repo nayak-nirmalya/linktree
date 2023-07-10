@@ -9,7 +9,7 @@ interface SocialsProps {
 
 export default function Socials({ socials }: SocialsProps) {
   return (
-    <div className="flex items-center gap-4 mt-8 text-white">
+    <div className="flex items-center gap-4 mt-6 text-white">
       {socials.map((social) => (
         <a
           aria-label={`${social.title} Link`}
