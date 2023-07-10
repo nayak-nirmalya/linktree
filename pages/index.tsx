@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 
 import data from "../data.json";
-import Avatar from "/public/assets/images/Avatar.jpg";
+
 import LinkCards from "@/components/LinkCards";
 
 export default function Home() {
@@ -11,7 +11,7 @@ export default function Home() {
       <Image
         className="rounded-full"
         alt={data.name}
-        src={Avatar}
+        src={data.avatar}
         width={96}
         height={96}
       />

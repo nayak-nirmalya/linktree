@@ -1,21 +1,21 @@
 {
   "name": "Nirmalya Nayak",
-  "avatar": "image",
+  "avatar": "/assets/images/Avatar.jpg",
   "links": [
     {
       "title": "Portfolio",
       "href": "https://portfolio-nayak-nirmalya.vercel.app/",
-      "image": "placeholder"
+      "image": "/assets/images/Portfolio.jpg"
     },
     {
       "title": "GitHub",
       "href": "https://github.com/nayak-nirmalya",
-      "image": "placeholder"
+      "image": "/assets/images/GitHub.jpg"
     },
     {
       "title": "HackerRank",
       "href": "https://www.hackerrank.com/n_nayak",
-      "image": "placeholder"
+      "image": "/assets/images/HackerRank.jpg"
     }
   ],
   "socials": [
