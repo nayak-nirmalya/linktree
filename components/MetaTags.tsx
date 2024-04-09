@@ -23,6 +23,19 @@ export default function MetaTags() {
         property="og:image"
         content="https://nirmalya.info/assets/images/Portfolio.jpg"
       />
+
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@nirmalya_nayak" />
+      <meta name="twitter:creator" content="@nirmalya_nayak" />
+      <meta name="twitter:title" content="Nirmalya Nayak | Links" />
+      <meta
+        name="twitter:description"
+        content="LinkTree with Next.js + TypeScript + Tailwind CSS"
+      />
+      <meta
+        name="twitter:image"
+        content="https://nirmalya.info/assets/images/Portfolio.jpg"
+      />
     </Head>
   );
 }
