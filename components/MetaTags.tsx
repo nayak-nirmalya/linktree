@@ -19,7 +19,10 @@ export default function MetaTags() {
         property="og:description"
         content="LinkTree with Next.js + TypeScript + Tailwind CSS"
       />
-      <meta property="og:image" content="https://nirmalya.info/profile.jpg" />
+      <meta
+        property="og:image"
+        content="https://nirmalya.info/assets/images/Portfolio.jpg"
+      />
     </Head>
   );
 }
